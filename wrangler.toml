@@ -1,0 +1,8 @@
+name = "leaderboardhq-json"
+main = "src/index.ts"
+compatibility_date = "2023-03-27"
+usage_model = "bundled"
+env = { }
+
+[triggers]
+crons = [ ]
